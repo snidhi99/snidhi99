@@ -1,10 +1,13 @@
-[![Header](https://raw.githubusercontent.com/VanekPetr/VanekPetr/main/readme_header.png "Header")](https://linkedin.com/in/vanekpetr42/)
+[![Header](https://raw.githubusercontent.com/VanekPetr/VanekPetr/main/readme_header.png "Header")](https://linkedin.com/in/snidhi99/)
 
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm Ganesh Prasad Shivakumar, an experienced leader who is passionate about building high impact teams and systems that enhance user experience and/or user value. My areas of interest include Recommendation Systems, Personalization, Marketing Technology, Growth, Online Advertising, LLMs, and Generative AI.
+I'm Shreenidhi Sriram, a Senior AI/ML Software Engineer from PricewaterhouseCoopers LLP US. I obtained a Master’s degree (2023) specializing in Programming, Statistics and Data science, and with a Bachelor’s degree thoroughly focused on Computer Science and Engineering, I bring with me extensive hands-on experience in an array of technical skills, including but not limited to Programming (Python, Java, C/C++), Database development (SQL, NoSql), Cloud computing (AWS, Azure), Machine Learning and AI/ML. 
 
-With over 7+ years of Machine Learning and Software Engineering experience, I am a passionate and innovative research engineer who specializes in deep learning, computer vision, and generative AI. My mission is to leverage AI for social good and to create positive impact in the world. I worked at Amazon and AmazonRobotics, where I focus on integrity for Data Gathering, Data Lakes, Data Partitioning, Generative AI, semantic segmentation, MultiModal Transformers, LLMs.
+I previously worked at Amazon (Seattle) as a Software Development Engineer in e-Commerce Search. Following this, I was part of Intel Corporation (Folsom, CA) as a Data Engineer in the Customer Solutions Validation Engineering Team. Post this, I also got an opportunity to be associated with Microsoft Corporation (Redmond, WA) as a Consultant in the Microsoft Office 365 (SQL Server and PowerBI) team. I am currently a Senior AI/ML engineer at PwC, where I lead my team to deliver Supervised, Unsupervised and Semi-supervised AI framework solutions for our clients.
+
+![image](https://github.com/snidhi99/snidhi99/assets/63549485/f9f1bdd2-4b8c-4b31-883c-2739fd86a36e)
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -26,12 +29,12 @@ With over 7+ years of Machine Learning and Software Engineering experience, I am
 
 
 ## 🚀 GitHub Stats
-<a href="https://github.com/VanekPetr/VanekPetr">
+<a href="https://github.com/snidhi99/snidhi99">
   <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=css,c,dockerfile,c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" />
 </a>
 
-<a href="https://github.com/ganeshpras/ganesh">
-  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=ganeshpras&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Ganesh's GitHub Stats" />
+<a href="https://github.com/snidhi99/snidhi99">
+  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=snidhi99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Shreenidhi's GitHub Stats" />
 </a>
 
 
