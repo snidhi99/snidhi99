@@ -4,7 +4,7 @@
 
 I'm Shreenidhi Sriram, a Senior AI/ML Software Engineer from PricewaterhouseCoopers LLP US. I obtained a Master’s degree (2023) specializing in Programming, Statistics and Data science, and with a Bachelor’s degree thoroughly focused on Computer Science and Engineering, I bring with me extensive hands-on experience in an array of technical skills, including but not limited to Programming (Python, Java, C/C++), Database development (SQL, NoSql), Cloud computing (AWS, Azure), Machine Learning and AI/ML. 
 
-I previously worked at Amazon (Seattle) as a Software Development Engineer in e-Commerce Search. Following this, I was part of Intel Corporation (Folsom, CA) as a Data Engineer in the Customer Solutions Validation Engineering Team. Post this, I also got an opportunity to be associated with Microsoft Corporation (Redmond, WA) as a Consultant in the Microsoft Office 365 (SQL Server and PowerBI) team. I am currently a Senior AI/ML engineer at PwC, where I lead my team to deliver Supervised, Unsupervised and Semi-supervised AI framework solutions for our clients.
+I previously worked at Amazon (Seattle, WA) as a Software Development Engineer in e-Commerce Search. Following this, I was part of Intel Corporation (Folsom, CA) as a Data Engineer in the Customer Solutions Validation Engineering Team. Post this, I also got an opportunity to be associated with Microsoft Corporation (Redmond, WA) as a Consultant in the Microsoft Office 365 (SQL Server and PowerBI) team. I am currently a Senior AI/ML engineer at PwC, where I lead my team to deliver Supervised, Unsupervised and Semi-supervised AI framework solutions for our clients.
 
 ![image](https://github.com/snidhi99/snidhi99/assets/63549485/f9f1bdd2-4b8c-4b31-883c-2739fd86a36e)
 
