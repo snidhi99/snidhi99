@@ -45,7 +45,7 @@ I previously worked at Amazon (Seattle, WA) as a Software Development Engineer i
 <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
 </a>
 
-<a href="https://github.com/VanekPetr/my-own-GPT">
+<a href="https://github.com/snidhi99/my-own-GPT">
 <img  align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=my-own-GPT&border_color=02D892&bg_color=1d1f21&title_color=C8D1D9&text_color=8B949E&icon_color=12D892" />
 </a>
 
